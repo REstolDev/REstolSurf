@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **html, css, javascript, angular and wordpress**
 
-- 📫 How to reach me **ramonestolgarcia@gmail.com**
+- 📫 How to reach me **hello@ramonestol.com**
 
 - ⚡ Fun fact **Code and Surf with LOVE**
 
